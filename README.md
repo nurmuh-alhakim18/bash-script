@@ -5,7 +5,12 @@ What this script will do:
 3. Install Git, Curl , ZIP , python3 and python3-pip
 4. Install Docker
 
-To run script execute
-```bash
-bash ~/bash-script/script.sh
-```
+## Running script
+1. Clone this repository
+   ```bash
+   git clone https://github.com/nurmuh-alhakim18/bash-script.git
+   ```
+2. To run script, execute
+   ```bash
+   bash ~/bash-script/script.sh
+   ```
