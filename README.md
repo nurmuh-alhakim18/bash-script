@@ -1,4 +1,4 @@
-# bash-script
+# Automation script
 What this script will do:
 1. Set timezone to Asia/Jakarta
 2. Update and upgrade
